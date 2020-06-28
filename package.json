@@ -1,0 +1,22 @@
+{
+  "name": "simple-framework-test",
+  "version": "1.0.0",
+  "description": "A simple framework to test in js",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jespinoza22/simple-framework-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jespinoza22/simple-framework-test/issues"
+  },
+  "homepage": "https://github.com/jespinoza22/simple-framework-test#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
